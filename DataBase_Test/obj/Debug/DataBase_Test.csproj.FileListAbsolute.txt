@@ -1,0 +1,12 @@
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\bin\Debug\DataBase_Test.exe.config
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\bin\Debug\DataBase_Test.exe
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\bin\Debug\DataBase_Test.pdb
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\obj\Debug\DataBase_Test.csproj.AssemblyReference.cache
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\obj\Debug\DataBase_Test.Form1.resources
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\obj\Debug\DataBase_Test.Properties.Resources.resources
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\obj\Debug\DataBase_Test.csproj.GenerateResource.cache
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\obj\Debug\DataBase_Test.csproj.CoreCompileInputs.cache
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\obj\Debug\DataBase_Test.csproj.CopyComplete
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\obj\Debug\DataBase_Test.exe
+C:\Users\letan\source\repos\DataBase_Test\DataBase_Test\obj\Debug\DataBase_Test.pdb
